@@ -1,4 +1,4 @@
-In this MATLAB live script, you can find codes of:
+In these MATLAB live scripts, you can find codes of:
 
 1)
 - simple plot
